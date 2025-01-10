@@ -2580,7 +2580,7 @@ modifications/314 = SubResource("SkeletonModification2DLookAt_17804")
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_fggqe"]
 resource_local_to_scene = true
 
-[node name="PlatformerExample" type="Node2D"]
+[node name="TopdownExample" type="Node2D"]
 
 [node name="ColorRect" type="ColorRect" parent="."]
 offset_right = 1152.0

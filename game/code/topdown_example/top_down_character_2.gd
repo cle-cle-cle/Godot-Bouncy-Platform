@@ -3,7 +3,7 @@ extends RigidBody2D
 @onready var animated_sprite_2d = $AnimatedSprite2D
 
 @export var move_speed: float = 200.0
-@export var push_force: float = 100.0          # Force applied to the other body
+@export var push_force: float = 50.0          # Force applied to the other body
 @export var player_push_force: float = 3000.0  # Force applied to this player
 @export var modulate_duration: float = 0.2     # How long to stay red
 
